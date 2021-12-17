@@ -1,5 +1,5 @@
 # Music-Player-JS
-Music Player made with HTML, CSS and JavaScript
+Music Player made with HTML, CSS and JavaScript. See it: https://music-player-jsvanilla.netlify.app
 
 Hello! This is my first music player project, i'm glad to share it.
 For now i'm fine maintaining the original code, which i got in a tutorial, 
