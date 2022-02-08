@@ -1,11 +1,6 @@
 # Music-Player-JS
-Music Player made with HTML, CSS and JavaScript. See it: https://music-player-jsvanilla.netlify.app
+Music Player made with HTML, CSS and JavaScript.<br>
+Check it out by clicking on the following link: https://music-player-jsvanilla.netlify.app
 
-Hello! This is my first music player project, i'm glad to share it.
-For now i'm fine maintaining the original code, which i got in a tutorial, 
-so none of current functionalities were made by me. The intent here is just
-to get used to basic functions and programming logic that these projects help
-a begginer to learn and get better at coding.
-
-But i seek to make changes to this page, and suggestions are accepted!
-Thanks!!
+Here's an animated GIF of the project: 
+![ezgif com-gif-maker (12)](https://user-images.githubusercontent.com/84105396/152908595-da2708d3-87f7-4ff1-b88f-4f9c24868bc6.gif)
